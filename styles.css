@@ -7,3 +7,22 @@ h1 {
     color: darkorchid;
     text-align: center;
 }
+
+.projects {display:flex; flex-wrap:wrap;}
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: rgb(148, 79, 169);
+    border-radius: 25%;
+    border: 2px solid rgb(48, 79, 169);
+}
+
+.project img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid rgb(48, 79, 169);
+    display: block;
+    margin: auto;
+}
