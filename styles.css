@@ -1,10 +1,10 @@
 body {
-    background: #A8A7FF;
+    background: #B48D75;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: darkorchid;
+    color: blanchedalmond;
     text-align: center;
 }
 
@@ -13,16 +13,16 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: rgb(148, 79, 169);
+    background: rgb(139, 99, 73);
     border-radius: 25%;
-    border: 2px solid rgb(48, 79, 169);
+    border: 2px solid rgb(86, 66, 53);
 }
 
 .project img {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 2px solid rgb(48, 79, 169);
+    border: 2px solid rgb(86, 66, 53);
     display: block;
     margin: auto;
 }
@@ -46,5 +46,5 @@ h1 {
     width: 150px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid rgb(86, 66, 53);
 }
